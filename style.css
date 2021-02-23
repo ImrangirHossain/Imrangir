@@ -1,0 +1,156 @@
+body{
+    
+}
+.font-size{
+     font-size: 18px;   
+}
+#home{
+    background: url('img/my%20image.jpg') no-repeat center top;
+    background-size:cover;
+    min-height:500px;
+}
+#home .dark-overly{
+    background: rgba(0,0,0,0.53);
+    min-height: 500px;   
+}
+#home .home-inner{
+    padding-top: 290px;
+    padding-bottom: 250px;
+    
+}
+#home .color-text{
+    color: #f5f4f459;
+}
+
+#portfolio .portfolio-heading{
+    font-size: 40px
+
+}
+#resume .color{
+    background: #333;
+}
+
+.text-item1{
+    font-size:14px;
+}
+
+.text-item2{
+    color:#bac964;
+}
+.section-text{
+    font-size: 16px;
+}
+#aboutme{
+    
+}
+.clientstestimonial{
+    background: #333;
+}
+.clientname{
+    color: #666666;
+}
+.clientname a{
+    text-decoration: none;
+    color: #bac964;
+}
+.card-style{
+    background: #333;
+}
+.background-color{
+    background: #333;
+}
+#services .fa {
+    font-size: 50px;
+    background: #bac964;
+    width: 102px;
+    height: 102px;
+    padding-top: 26px;
+    border-radius: 60px;
+    color: #080b0e;;
+}
+.details-button a{
+    text-decoration: none
+}
+.details-button a:hover{
+    text-decoration: none
+}
+#services a{
+    text-decoration: none;
+    color:#bac964;
+}
+
+.hoverleft{
+    margin-right: 0px;
+    transition:0.5s; 
+}
+.hoverrigh{
+    margin-left: 0px;
+    transition:0.5s;
+}
+.hoverleft:hover{
+    margin-right: 20px;
+}
+.hoverrigh{
+    margin-left: 20px;
+}
+
+#Blog a{
+    text-decoration: none;
+    color: #fff;
+}
+#Blog a:hover{
+    color: #bac964;
+}
+
+#mainblog a{
+     text-decoration: none;
+    color: #6c757d;
+}
+#Blog a:hover{
+    color: #bac964;
+}
+.title-color{
+    color: #3d5369;
+}
+
+#footer .fab{
+    font-size:25px;
+    color: #bac964;
+    background: #333;
+    width: 64px;
+    height: 64px;
+    padding-top: 17px;
+    border-radius: 50px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
